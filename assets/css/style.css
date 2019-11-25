@@ -1,0 +1,18 @@
+.border {
+	border: 1px solid;
+}
+.margin-top{
+	margin-top: 100px;
+}
+.content{
+	box-shadow: 0 0 3px black;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 5px;
+}
+.judul{
+	font-family: Orator Std;
+	font-weight: bold;
+}

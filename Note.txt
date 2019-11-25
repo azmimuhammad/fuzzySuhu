@@ -1,0 +1,7 @@
+Anggota
+ - Azmi Muhammad (1103150003)
+ - Rizki Mulia Pratama (1103150058)
+
+Judul : Fuzzy Logic Green House Cabai
+
+Bahasa Pemrograman PHP Object
